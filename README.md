@@ -1,3 +1,46 @@
+# React.js ToDo List
+
+A simple ToDo list web application built with React.js that allows users to list and manage their activities. Users can add new activities, edit existing ones, and the application stores data in local memory to ensure that the activities are not lost upon refreshing the website.
+
+![Demo GIF](https://imgur.com/a/hPgfBqP) 
+
+
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+
+
+## Features
+
+- Add new activities to the list.
+- Edit existing activities.
+- Local memory storage for persistence.
+- User-friendly interface.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed on your machine.
+- [Git](https://git-scm.com/) installed on your machine (for cloning the repository).
+
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/react-todo-list.git
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
